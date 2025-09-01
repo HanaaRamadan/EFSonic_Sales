@@ -1,6 +1,6 @@
 # EFSonic_Sales
 
-📌 Query: Sales & Returns Transactions Report
+📌 Query: Sales & Returns Analysis (EFSonicData)
 
 Description
 This query generates a detailed sales and returns report for customers and outlets within a given date range. It provides transaction-level details including customer, outlet, employee (sales rep), item details, quantities, discounts, taxes, and net totals.
